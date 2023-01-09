@@ -140,7 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="my_strlen.c" />
+    <ClCompile Include="字符串逆序.c" />
     <ClCompile Include="字符串长度.c" />
+    <ClCompile Include="数字之和.c" />
     <ClCompile Include="斐波那契数列.c" />
     <ClCompile Include="最大值.c" />
     <ClCompile Include="阶乘.c" />
