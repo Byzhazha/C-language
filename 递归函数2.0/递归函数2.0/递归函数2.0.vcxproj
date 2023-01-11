@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="my_strlen.c" />
+    <ClCompile Include="n的k次方.c" />
     <ClCompile Include="字符串逆序.c" />
     <ClCompile Include="字符串长度.c" />
     <ClCompile Include="数字之和.c" />
